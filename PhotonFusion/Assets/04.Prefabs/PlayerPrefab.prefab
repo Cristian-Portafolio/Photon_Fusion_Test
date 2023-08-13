@@ -220,3 +220,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _interpolationDataSource: 0
   _prefabBall: {fileID: 6804728452842808206, guid: d9129fc0042eee04c8aa410f026b6195, type: 3}
+  _prefabPhysxBall: {fileID: 7599997839764048075, guid: 81053910caaa1654994c14610ab2fd7c, type: 3}
